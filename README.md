@@ -1,5 +1,12 @@
 # coding-PID
-PID模擬器設計
+#使用前先下載VISUAL CODE
+#打開程式新增一個Folder
+#在Folder裡下存入pid_simulator_fixed_final檔案
+#開啟pid_simulator_fixed_final存入下列程式碼
+#存入之後在終端機(terimal)打上pip install matplotlib fpdf numpy
+#安裝完之後再次在終端機(terimal)打上python pid_simulator_fixed_final.py
+
+#PID模擬器設計程式(完整複製以下程式)
 import tkinter as tk
 from tkinter import ttk, filedialog
 import matplotlib.pyplot as plt

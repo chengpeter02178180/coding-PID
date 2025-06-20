@@ -5,6 +5,7 @@
 #開啟pid_simulator_fixed_final存入下列程式碼
 #存入之後在終端機(terimal)打上pip install matplotlib fpdf numpy
 #安裝完之後再次在終端機(terimal)打上python pid_simulator_fixed_final.py
+#如果終端機打上python pid_simulator_fixed_final.py無法執行時，請打python .\pid_simulator_fixed_final.py
 
 #PID模擬器設計程式(完整複製以下程式)
 import tkinter as tk
